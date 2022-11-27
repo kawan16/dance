@@ -1,19 +1,39 @@
-import React from 'react';
+import React, {useState} from 'react';
 import DanceMoves from './bachata.json';
+import './App.css'
 
 function App() {
-  return (
-      <div className="container">
-          <MoveList/>
-      </div>
-  );
+    const [filter, setFilter] = useState('');
+    return (
+        <div className="container">
+            <MoveSearchBar
+                onFilter={setFilter}/>
+            <MoveList filter={filter}/>
+        </div>
+    );
 }
 
-function MoveList() {
+function MoveSearchBar(props: any) {
+    return (
+        <div className="field">
+            <div className="control">
+                <input
+                    className="input"
+                    type="text"
+                    placeholder="Search for a dance move"
+                    onChange={event => props.onFilter(event.target.value)}/>
+            </div>
+        </div>
+    )
+}
+
+function MoveList(props: any) {
+    const matchMove = (danceMove: any) => danceMove.move.toLowerCase().includes(props.filter.toLowerCase());
+    const filteredMoves = DanceMoves.filter(matchMove);
     return (
         <div className="columns is-multiline">
             {
-                DanceMoves.map(MoveListItem)
+                filteredMoves.map(MoveListItem)
             }
         </div>
     )
