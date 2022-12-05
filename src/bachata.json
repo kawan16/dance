@@ -1,386 +1,562 @@
 [
   {
     "dance": "Bachata",
-    "move": "Basic Step",
+    "name": "Sabor",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/k_oED5qvDRA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=k_oED5qvDRA&t=29s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Tranqui",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/k_oED5qvDRA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=k_oED5qvDRA&t=277s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Basic Step",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=47s"
   },
   {
     "dance": "Bachata",
-    "move": "Basic Lateral Step",
+    "name": "Basic Lateral Step",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=178s"
   },
   {
     "dance": "Bachata",
-    "move": "Basic Front / Back Step",
+    "name": "Basic Front / Back Step",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=34s"
   },
   {
     "dance": "Bachata",
-    "move": "Basic Bass Step",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=232s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Basic Step Tap",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=364s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Half Turn - Lady",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=338s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Half Turn - Man",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=208s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Reverse Basic Step",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=504s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Basic Turn - Lady",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=99s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Basic Turn - Man",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=136s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Box Step",
+    "name": "Box Step",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=179s"
   },
   {
     "dance": "Bachata",
-    "move": "Hammerlock - Lady",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=246s"
+    "name": "Mambo Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=364s"
   },
   {
     "dance": "Bachata",
-    "move": "Hammerlock - Man",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=291s"
+    "name": "Suave",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/k_JCurbXLLg/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=k_JCurbXLLg&t=366s"
   },
   {
     "dance": "Bachata",
-    "move": "Double Hammerlock",
-    "imageUrl": "https://img.youtube.com/vi/fSvr8GThrnU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=fSvr8GThrnU&t=418s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Caricia",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=323s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Caricia - Elbow Up ",
-    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
-    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=114s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Caricia - Cross Hand",
-    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
-    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=132s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Caricia - Two Hands",
-    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
-    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=194s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Caricia - Crossed Two Hands",
-    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
-    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=262s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Hesitation",
+    "name": "Hesitation",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=378s"
   },
   {
     "dance": "Bachata",
-    "move": "Pretzel ",
+    "name": "Basic Step w/ Raised Tap",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/CQ9-ZrlpeCg/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=CQ9-ZrlpeCg&t=126s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Basic Bass Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=232s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Basic Step w/ Tap Turn",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/CQ9-ZrlpeCg/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=CQ9-ZrlpeCg&t=167s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Triple Step w/ Back Step Tap",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=80s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Crossed Front Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=149s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Reverse Basic Step",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=433s"
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=504s"
   },
   {
     "dance": "Bachata",
-    "move": "Pretzel - Walk Together ",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=26s"
+    "name": "Hesitation w/ Tap Turn",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=14s"
   },
   {
     "dance": "Bachata",
-    "move": "Pretzel with Kick",
-    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=433s"
+    "name": "Slow Back Circle Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=80s"
   },
   {
     "dance": "Bachata",
-    "move": "Pretzel - Turn Inside",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=51s"
+    "name": "Quick Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=180s"
   },
   {
     "dance": "Bachata",
-    "move": "Pretzel - Body Wave",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=78s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Body Wave + Reverse",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=105s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Dip",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=131s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Slow Basic w/ Triple Step",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=158s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Isolations",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=186s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Head Roll",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=222s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Fall",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=249s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Dance Pose",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=320s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Chest Circles",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=350s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Arm Throw + Turn",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=376s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Guitar Step",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=416s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Pretzel - Bolero Bounce",
-    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=41s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Two hands Turn",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=99s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Two hands Turn - Penguin",
-    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=45"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Two hands Turn - Reward the Follow",
-    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=126"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Two hands Turn - Reward the Lead",
-    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=195"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Two hands Turn - Flick",
-    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=215"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Windmill Turn",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=452s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Turn over the shoulder",
-    "imageUrl": "https://img.youtube.com/vi/fSvr8GThrnU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=fSvr8GThrnU&t=281s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Turn At Same Time",
-    "imageUrl": "https://img.youtube.com/vi/_4FM-05UYxE/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=_4FM-05UYxE&t=528s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Delayed Turn - Lady",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=285s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Delayed Turn - Man",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=369s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "In & Out",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=17s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "In & Out w/ Twist",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=90s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "In & Out w/ Kick / Hesitation",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=350s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "In & Out 180",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=400s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "In & Out 360",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=409s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Turn 180",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=123s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Turn 360",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=180s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Change Place",
-    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=226s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Paséala",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=275s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Walk Around",
-    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=382s"
-  },
-  {
-    "dance": "Bachata",
-    "move": "Slide",
+    "name": "Slide",
+    "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=400s"
   },
   {
     "dance": "Bachata",
-    "move": "Elbows In",
+    "name": "Caricia",
+    "type": "Armwork",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=323s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caricia - Elbow Up ",
+    "type": "Armwork",
+    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
+    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=114s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caricia - Cross Hand",
+    "type": "Armwork",
+    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
+    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=132s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caricia - Two Hands",
+    "type": "Armwork",
+    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
+    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=194s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caricia - Crossed Two Hands",
+    "type": "Armwork",
+    "imageUrl": "https://img.youtube.com/vi/CRvEuzRNE4k/hqdefault.jpg",
+    "videoUrl": "https://youtu.be/CRvEuzRNE4k&t=262s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Elbows In",
+    "type": "Armwork",
     "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=418s"
   },
   {
     "dance": "Bachata",
-    "move": "Body Wave",
-    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=47s"
+    "name": "Basic Turn - Lady",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=99s"
   },
   {
     "dance": "Bachata",
-    "move": "Head Roll",
-    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=144s"
+    "name": "Basic Turn - Man",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=136s"
   },
   {
     "dance": "Bachata",
-    "move": "Hip Roll",
-    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=263s"
+    "name": "Hammerlock - Lady",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=246s"
   },
   {
     "dance": "Bachata",
-    "move": "Shadow Position - In & Out",
+    "name": "Hammerlock - Man",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=291s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Double Hammerlock",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/fSvr8GThrnU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=fSvr8GThrnU&t=418s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Half Turn - Lady",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=338s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Half Turn - Man",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=208s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel ",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=433s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Walk Together ",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=26s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel with Kick",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/uYogZ8wGrv0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=uYogZ8wGrv0&t=433s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Turn Inside",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=51s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Body Wave",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=78s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Body Wave + Reverse",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=105s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Dip",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=131s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Slow Basic w/ Triple Step",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=158s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Isolations",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=186s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Head Roll",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=222s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Fall",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=249s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Dance Pose",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=320s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Chest Circles",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=350s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Arm Throw + Turn",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=376s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Guitar Step",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=416s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Pretzel - Bolero Bounce",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/KazwuBDS6rA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=KazwuBDS6rA&t=41s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Two hands Turn",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=99s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Two hands Turn - Penguin",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=45"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Two hands Turn - Reward the Follow",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=126"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Two hands Turn - Reward the Lead",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=195"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Two hands Turn - Flick",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/-YJ99bQbq9k/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=-YJ99bQbq9k&t=215"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Windmill Turn",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=452s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Turn over the shoulder",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/fSvr8GThrnU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=fSvr8GThrnU&t=281s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Turn At Same Time",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/_4FM-05UYxE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=_4FM-05UYxE&t=528s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Delayed Turn - Lady",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=285s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Delayed Turn - Man",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=369s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Turn 180",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=123s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Turn 360",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=180s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Por Detras",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/nY_ceCaDsD8/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=nY_ceCaDsD8&t=52s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caminada",
+    "type": "Turn",
+    "imageUrl": "https://img.youtube.com/vi/nY_ceCaDsD8/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=nY_ceCaDsD8&t=112s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "In & Out",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=17s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "In & Out w/ Twist",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=90s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "In & Out w/ Kick / Hesitation",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=350s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "In & Out 180",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=400s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "In & Out 360",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=FEjQnv_iCac&t=409s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Change Place",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/aEk0Roq8UCs/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=aEk0Roq8UCs&t=226s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Paséala",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=275s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Walk Around",
+    "type": "Change Position",
+    "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=382s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Shadow Position - In & Out",
+    "type": "Shadow Position",
     "imageUrl": "http://i3.ytimg.com/vi/Nmi4JgMGsMs/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=Nmi4JgMGsMs&t=9s"
   },
   {
     "dance": "Bachata",
-    "move": "Shadow Position - Half Turn",
+    "name": "Shadow Position - Half Turn",
+    "type": "Shadow Position",
     "imageUrl": "http://i3.ytimg.com/vi/Nmi4JgMGsMs/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=Nmi4JgMGsMs&t=120s"
   },
   {
     "dance": "Bachata",
-    "move": "Shadow Position - Social",
+    "name": "Shadow Position - Social",
+    "type": "Shadow Position",
     "imageUrl": "http://i3.ytimg.com/vi/Nmi4JgMGsMs/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=Nmi4JgMGsMs&t=226s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Body Wave",
+    "type": "Wave",
+    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=47s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Head Roll",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=144s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Head Roll w/ Hand on Shoulder",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/hFoqkiDE3nA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=hFoqkiDE3nA&t=330s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Head Roll w/ Turn",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/hFoqkiDE3nA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=hFoqkiDE3nA&t=670s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Head Roll in Close Position",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/hFoqkiDE3nA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=hFoqkiDE3nA&t=881s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Head Roll in Shadow Position",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/hFoqkiDE3nA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=hFoqkiDE3nA&t=1105s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Hip Roll",
+    "type": "Roll",
+    "imageUrl": "http://i3.ytimg.com/vi/TZAqOYUretQ/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=TZAqOYUretQ&t=263s"
   }
 ]

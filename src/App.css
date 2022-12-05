@@ -6,3 +6,7 @@
 .columns {
   margin-top: 20px;
 }
+
+.title.is-4 {
+  font-size: 1rem;
+}
