@@ -88,7 +88,7 @@
     "name": "Triple Step w/ Back Step Tap",
     "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/jWG78qdgQeE/hqdefault.jpg",
-    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=80s"
+    "videoUrl": "https://www.youtube.com/watch?v=jWG78qdgQeE&t=114s"
   },
   {
     "dance": "Bachata",
@@ -127,10 +127,101 @@
   },
   {
     "dance": "Bachata",
+    "name": "Madrid Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/0yycLq7II6Y/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=0yycLq7II6Y&t=119s"
+  },
+  {
+    "dance": "Bachata",
     "name": "Slide",
     "type": "Footwork",
     "imageUrl": "https://img.youtube.com/vi/oj-S6T4oZeU/hqdefault.jpg",
     "videoUrl": "https://www.youtube.com/watch?v=oj-S6T4oZeU&t=400s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Vaiven o pendulo",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=60s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Salto",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=88s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Cruzados",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=113s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Al centro",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=308s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Escubillao",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=348s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Caida",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=386s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Chacha o traspié",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=425s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Corridito",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=455s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Hombros",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=512s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Talon",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=636s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Twist",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=674s"
+  },
+  {
+    "dance": "Bachata",
+    "name": "Triple Step",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/ib0gEoVaSlY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ib0gEoVaSlY&t=712s"
   },
   {
     "dance": "Bachata",
