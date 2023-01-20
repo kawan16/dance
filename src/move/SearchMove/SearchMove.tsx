@@ -2,24 +2,37 @@ import React, {useState} from 'react';
 import DanceMoves from '../../bachata.json';
 import MoveCard from "../Shared/Component/MoveCard";
 
-const MoveTypes = DanceMoves
+
+const MoveDances = DanceMoves
+    .reduce((dances: any, move: any) => {
+        const newDances = {...dances};
+        newDances[move.dance] = newDances[move.dance] || [];
+        return newDances;
+    }, {});
+
+const MoveTypes = (dance: string) => DanceMoves
     .reduce((types: any, move: any) => {
         const newTypes = {...types};
-        newTypes[move.type] = newTypes[move.type] || [];
+        if (move.dance.includes(dance)) {
+            newTypes[move.type] = newTypes[move.type] || [];
+        }
         return newTypes;
     }, {});
 
 function SearchMove() {
-    const [filter, setFilter] = useState({name: '', type: ''});
+    const [filter, setFilter] = useState({name: '', type: '', dance: ''});
     const setNameFilter = (name: any) => setFilter({...filter, name});
     const setTypeFilter = (type: any) => setFilter({...filter, type});
+    const setDanceFilter = (dance: any) => setFilter({...filter, dance});
     return (
         <div className="container">
             <div className="columns">
                 <div className="column is-one-fifth">
-                    <MoveTypeFilterMenu
+                    <MoveFilterMenu
                         selectedType={filter.type}
-                        onSelectedType={setTypeFilter}/>
+                        selectedDance={filter.dance}
+                        onSelectedType={setTypeFilter}
+                        onSelectedDance={setDanceFilter}/>
                 </div>
                 <div className="column">
                     <MoveSearchBar
@@ -31,10 +44,49 @@ function SearchMove() {
     );
 }
 
-function MoveTypeFilterMenu(props: any) {
-    const types = Object.keys(MoveTypes).sort();
+function MoveFilterMenu(props: any) {
     return (
         <aside className="menu">
+            <MoveDanceFilterMenu {...props} />
+            <MoveTypeFilterMenu {...props} />
+        </aside>
+    )
+}
+
+function MoveDanceFilterMenu(props: any) {
+    const dances = Object.keys(MoveDances).sort();
+    return (
+        <>
+            <p className="menu-label">
+                Dance
+            </p>
+            <ul className="menu-list">
+                <li>
+                    <a
+                        className={props.selectedDance === '' ? 'is-active' : ''}
+                        onClick={() => props.onSelectedDance('')}>
+                        {'All (' + dances.length + ')'}
+                    </a>
+                </li>
+                {
+                    dances.map((dance:any) =>
+                        <li key={dance}>
+                            <a className={dance === props.selectedDance ? 'is-active' : ''}
+                               onClick={() => props.onSelectedDance(dance)}>
+                                {dance}
+                            </a>
+                        </li>
+                    )
+                }
+            </ul>
+        </>
+    )
+}
+
+function MoveTypeFilterMenu(props: any) {
+    const types = Object.keys(MoveTypes(props.selectedDance)).sort();
+    return (
+        <>
             <p className="menu-label">
                 Type
             </p>
@@ -43,21 +95,21 @@ function MoveTypeFilterMenu(props: any) {
                     <a
                         className={props.selectedType === '' ? 'is-active' : ''}
                         onClick={() => props.onSelectedType('')}>
-                        {'All (' + DanceMoves.length + ')'}
+                        {'All (' + types.length + ')'}
                     </a>
                 </li>
                 {
                     types.map((moveType:any) =>
                         <li key={moveType}>
                             <a className={moveType === props.selectedType ? 'is-active' : ''}
-                                onClick={() => props.onSelectedType(moveType)}>
+                               onClick={() => props.onSelectedType(moveType)}>
                                 {moveType}
                             </a>
                         </li>
                     )
                 }
             </ul>
-        </aside>
+        </>
     )
 }
 
@@ -78,6 +130,7 @@ function MoveSearchBar(props: any) {
 function MoveList(props: any) {
     const matchMove = (danceMove: any) =>
         danceMove.name.toLowerCase().includes(props.filter.name.toLowerCase()) &&
+        danceMove.dance?.toLowerCase().includes(props.filter.dance.toLowerCase()) &&
         danceMove.type?.toLowerCase().includes(props.filter.type.toLowerCase());
     const filteredMoves = DanceMoves.filter(matchMove);
     return (

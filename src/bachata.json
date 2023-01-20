@@ -1,5 +1,12 @@
 [
   {
+    "dance": "Salsa",
+    "name": "Sabfdfor",
+    "type": "Footwork",
+    "imageUrl": "https://img.youtube.com/vi/k_oED5qvDRA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=k_oED5qvDRA&t=29s"
+  },
+  {
     "dance": "Bachata",
     "name": "Sabor",
     "type": "Footwork",
